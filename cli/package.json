@@ -1,0 +1,17 @@
+{
+  "name": "fiveblocks",
+  "version": "1.0.0",
+  "description": "Command-line tool and SDK for the Five Blocks public content API: search Five Blocks research, services and Knowledge Center answers on Google, Wikipedia and AI reputation.",
+  "keywords": ["fiveblocks", "reputation", "reputation-management", "wikipedia", "ai", "mcp", "cli", "sdk"],
+  "homepage": "https://www.fiveblocks.com/developers/",
+  "repository": { "type": "git", "url": "git+https://github.com/Fiveblocks/agents.git" },
+  "bugs": { "email": "services@fiveblocks.com" },
+  "license": "MIT",
+  "author": "Five Blocks <services@fiveblocks.com> (https://www.fiveblocks.com/)",
+  "type": "module",
+  "main": "index.js",
+  "exports": { ".": "./index.js" },
+  "bin": { "fiveblocks": "bin/fiveblocks.js" },
+  "files": ["index.js", "bin/", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" }
+}
