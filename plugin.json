@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "fiveblocks",
+  "version": "1.0.0",
+  "description": "Five Blocks digital reputation management: skills and MCP servers for Google, Wikipedia and AI reputation. Public content search plus client access to AIQ and IMPACT.",
+  "author": { "name": "Five Blocks", "email": "services@fiveblocks.com", "url": "https://www.fiveblocks.com/" },
+  "homepage": "https://www.fiveblocks.com/developers/",
+  "repository": "https://github.com/Fiveblocks/agents",
+  "license": "MIT",
+  "keywords": ["reputation", "google", "wikipedia", "ai", "mcp", "aiq", "impact"]
+}

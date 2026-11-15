@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "fiveblocks-docs": { "type": "streamable-http", "url": "https://www.fiveblocks.com/docs-mcp" },
+    "fiveblocks-aiq": { "type": "streamable-http", "url": "https://aiq-mcp.fiveblocks.com/mcp" },
+    "fiveblocks-impact": { "type": "streamable-http", "url": "https://impact-mcp.fiveblocks.com/mcp" }
+  }
+}
