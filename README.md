@@ -22,7 +22,7 @@ npx skills add Fiveblocks/agents
 | Five Blocks AIQ | https://aiq-mcp.fiveblocks.com/mcp | Five Blocks clients, OAuth sign-in |
 | Five Blocks IMPACT | https://impact-mcp.fiveblocks.com/mcp | Five Blocks clients, OAuth sign-in |
 
-All three are listed in the official MCP Registry under `com.fiveblocks`.
+AIQ and IMPACT are listed in the official MCP Registry as `com.fiveblocks/aiq` and `com.fiveblocks/impact`.
 
 ## Public content API
 
